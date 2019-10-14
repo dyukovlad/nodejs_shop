@@ -54,7 +54,7 @@ const server = http.createServer((req, res) => {
 
 const PORT = process.env.PORT || config.httpPort;
 
-server.listen(PORT, '127.0.0.1', () => {
+server.listen(PORT, () => {
     console.log(`listen the server: ${PORT}`);
 });
 
