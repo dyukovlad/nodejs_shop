@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dyukovlad/nodejs_shop.git"
   },
-  "author": "",
+  "author": "dyukovlad.ru",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dyukovlad/nodejs_shop/issues"
